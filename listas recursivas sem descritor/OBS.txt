@@ -1,0 +1,1 @@
+Tive alguns problemas com a compilação do programa, portanto tive que tirar algumas funçoes e não pude implementar por completo na main.c
